@@ -289,7 +289,7 @@ main > section{
     /* ⭐⭐⭐ These stars show whether a friend is on the user's list of favorites. We want to position it so that it displays 25 pixels above and 175 pixels to the left of its normal position on the page */
     position: relative;
     top: -25px;
-    left: 175;
+    left: 175px;
     border: 1px solid var(--lt-gray);
 }
 
